@@ -1,0 +1,13 @@
+.app {
+display: flex;
+  flex-direction: column ;
+  align-items: flex-start;
+}
+
+.date-pickers-container{
+  display: flex;
+}
+
+.error{
+  color: red;
+}
